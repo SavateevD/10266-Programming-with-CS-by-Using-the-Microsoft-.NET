@@ -1,0 +1,5 @@
+E:\M10266-0826\Resources\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\M10266-0826\Resources\bin\Debug\Resources.exe
+E:\M10266-0826\Resources\bin\Debug\Resources.pdb
+E:\M10266-0826\Resources\obj\x86\Debug\Resources.exe
+E:\M10266-0826\Resources\obj\x86\Debug\Resources.pdb

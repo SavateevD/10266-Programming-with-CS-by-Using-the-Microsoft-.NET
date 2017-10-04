@@ -1,0 +1,5 @@
+E:\M10266-0826\Hello\Exceptions\bin\Debug\Exceptions.exe
+E:\M10266-0826\Hello\Exceptions\bin\Debug\Exceptions.pdb
+E:\M10266-0826\Hello\Exceptions\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\M10266-0826\Hello\Exceptions\obj\x86\Debug\Exceptions.exe
+E:\M10266-0826\Hello\Exceptions\obj\x86\Debug\Exceptions.pdb

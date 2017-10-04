@@ -1,0 +1,5 @@
+E:\M10266-0826\Strings\bin\Debug\Strings.exe
+E:\M10266-0826\Strings\bin\Debug\Strings.pdb
+E:\M10266-0826\Strings\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\M10266-0826\Strings\obj\x86\Debug\Strings.exe
+E:\M10266-0826\Strings\obj\x86\Debug\Strings.pdb

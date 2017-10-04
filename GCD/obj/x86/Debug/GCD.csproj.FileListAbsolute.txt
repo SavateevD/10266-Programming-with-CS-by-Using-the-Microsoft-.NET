@@ -1,0 +1,5 @@
+E:\M10266-0826\GCD\bin\Debug\GCD.exe
+E:\M10266-0826\GCD\bin\Debug\GCD.pdb
+E:\M10266-0826\GCD\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\M10266-0826\GCD\obj\x86\Debug\GCD.exe
+E:\M10266-0826\GCD\obj\x86\Debug\GCD.pdb

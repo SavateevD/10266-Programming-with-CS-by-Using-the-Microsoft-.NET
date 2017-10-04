@@ -1,0 +1,5 @@
+E:\M10266-0826\Names\bin\Debug\Names.exe
+E:\M10266-0826\Names\bin\Debug\Names.pdb
+E:\M10266-0826\Names\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\M10266-0826\Names\obj\x86\Debug\Names.exe
+E:\M10266-0826\Names\obj\x86\Debug\Names.pdb

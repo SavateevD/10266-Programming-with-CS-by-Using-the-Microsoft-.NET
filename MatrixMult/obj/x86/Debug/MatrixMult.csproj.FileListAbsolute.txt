@@ -1,0 +1,5 @@
+E:\M10266-0826\MatrixMult\bin\Debug\MatrixMult.exe
+E:\M10266-0826\MatrixMult\bin\Debug\MatrixMult.pdb
+E:\M10266-0826\MatrixMult\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\M10266-0826\MatrixMult\obj\x86\Debug\MatrixMult.exe
+E:\M10266-0826\MatrixMult\obj\x86\Debug\MatrixMult.pdb

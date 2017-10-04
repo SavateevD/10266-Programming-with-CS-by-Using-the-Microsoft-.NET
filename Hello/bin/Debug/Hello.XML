@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Hello</name>
+    </assembly>
+    <members>
+        <member name="T:Hello.Program">
+            <summary>
+            My Main class
+            </summary>
+        </member>
+        <member name="F:Hello.Program.k">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Hello.Program.Main(System.String[])">
+            <summary>
+             Program entry point
+            </summary>
+            
+            <param name="args">Command line parameters</param>
+        </member>
+    </members>
+</doc>

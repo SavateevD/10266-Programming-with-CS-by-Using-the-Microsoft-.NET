@@ -1,0 +1,5 @@
+E:\M10266-0826\Hello\Collections\bin\Debug\Collections.exe
+E:\M10266-0826\Hello\Collections\bin\Debug\Collections.pdb
+E:\M10266-0826\Hello\Collections\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\M10266-0826\Hello\Collections\obj\x86\Debug\Collections.exe
+E:\M10266-0826\Hello\Collections\obj\x86\Debug\Collections.pdb

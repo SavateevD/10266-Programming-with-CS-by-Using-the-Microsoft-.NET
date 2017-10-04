@@ -1,0 +1,7 @@
+E:\M10266-0826\Hello\MyTestProject\bin\Debug\MyTestProject.dll
+E:\M10266-0826\Hello\MyTestProject\bin\Debug\MyTestProject.pdb
+E:\M10266-0826\Hello\MyTestProject\bin\Debug\Methods.exe
+E:\M10266-0826\Hello\MyTestProject\bin\Debug\Methods.pdb
+E:\M10266-0826\Hello\MyTestProject\obj\Debug\ResolveAssemblyReference.cache
+E:\M10266-0826\Hello\MyTestProject\obj\Debug\MyTestProject.dll
+E:\M10266-0826\Hello\MyTestProject\obj\Debug\MyTestProject.pdb

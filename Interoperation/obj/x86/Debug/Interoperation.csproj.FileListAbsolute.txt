@@ -1,0 +1,6 @@
+E:\M10266-0826\Interoperation\bin\Debug\Interoperation.exe
+E:\M10266-0826\Interoperation\bin\Debug\Interoperation.pdb
+E:\M10266-0826\Interoperation\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\M10266-0826\Interoperation\obj\x86\Debug\Interoperation.exe
+E:\M10266-0826\Interoperation\obj\x86\Debug\Interoperation.pdb
+E:\M10266-0826\Interoperation\obj\x86\Debug\Interoperation.csproj.ResolveComReference.cache

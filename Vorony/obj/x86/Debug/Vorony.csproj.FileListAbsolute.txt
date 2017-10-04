@@ -1,0 +1,5 @@
+E:\M10266-0826\Vorony\bin\Debug\Vorony.exe
+E:\M10266-0826\Vorony\bin\Debug\Vorony.pdb
+E:\M10266-0826\Vorony\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\M10266-0826\Vorony\obj\x86\Debug\Vorony.exe
+E:\M10266-0826\Vorony\obj\x86\Debug\Vorony.pdb

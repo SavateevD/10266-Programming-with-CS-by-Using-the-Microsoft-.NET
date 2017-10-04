@@ -1,0 +1,5 @@
+E:\M10266-0826\Enums\bin\Debug\Enums.exe
+E:\M10266-0826\Enums\bin\Debug\Enums.pdb
+E:\M10266-0826\Enums\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\M10266-0826\Enums\obj\x86\Debug\Enums.exe
+E:\M10266-0826\Enums\obj\x86\Debug\Enums.pdb

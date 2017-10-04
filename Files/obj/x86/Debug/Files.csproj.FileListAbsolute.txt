@@ -1,0 +1,5 @@
+E:\M10266-0826\Files\bin\Debug\Files.exe
+E:\M10266-0826\Files\bin\Debug\Files.pdb
+E:\M10266-0826\Files\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\M10266-0826\Files\obj\x86\Debug\Files.exe
+E:\M10266-0826\Files\obj\x86\Debug\Files.pdb

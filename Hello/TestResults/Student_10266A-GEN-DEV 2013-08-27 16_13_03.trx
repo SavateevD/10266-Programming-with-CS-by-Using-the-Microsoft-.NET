@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="ddbbb330-78b7-42d3-8dbb-c2416089c388" name="Student@10266A-GEN-DEV 2013-08-27 16:13:03" runUser="10266A-GEN-DEV\Student" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="23f75c5e-7e23-4bc5-bc19-bbc15d80c5b0">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Student_10266A-GEN-DEV 2013-08-27 16_13_03">
+      <DeploymentItem filename="E:\M10266-0826\Methods\bin\Debug\Methods.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-08-27T16:13:03.3429687+04:00" queuing="2013-08-27T16:13:03.3634765+04:00" start="2013-08-27T16:13:03.5275390+04:00" finish="2013-08-27T16:13:04.0353515+04:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="2" executed="2" passed="2" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestGCDMethod" storage="e:\m10266-0826\hello\mytestproject\bin\debug\mytestproject.dll" id="4a4306f6-0d94-b0d6-1468-2148a6b34350">
+      <Execution id="2030cb81-b368-4b75-bc55-e25448cfa7ff" />
+      <TestMethod codeBase="E:/M10266-0826/Hello/MyTestProject/bin/Debug/MyTestProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MyTestProject.AverageTest, MyTestProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestGCDMethod" />
+    </UnitTest>
+    <UnitTest name="TestAverageMethod" storage="e:\m10266-0826\hello\mytestproject\bin\debug\mytestproject.dll" id="8bcd3c45-1013-4cee-871f-42202704a43d">
+      <Execution id="757ea650-0f07-4c53-9406-3e779ad9e9b0" />
+      <TestMethod codeBase="E:/M10266-0826/Hello/MyTestProject/bin/Debug/MyTestProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MyTestProject.AverageTest, MyTestProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestAverageMethod" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="8bcd3c45-1013-4cee-871f-42202704a43d" executionId="757ea650-0f07-4c53-9406-3e779ad9e9b0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="4a4306f6-0d94-b0d6-1468-2148a6b34350" executionId="2030cb81-b368-4b75-bc55-e25448cfa7ff" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="757ea650-0f07-4c53-9406-3e779ad9e9b0" testId="8bcd3c45-1013-4cee-871f-42202704a43d" testName="TestAverageMethod" computerName="10266A-GEN-DEV" duration="00:00:00.0110875" startTime="2013-08-27T16:13:03.5607422+04:00" endTime="2013-08-27T16:13:03.7062500+04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="757ea650-0f07-4c53-9406-3e779ad9e9b0">
+    </UnitTestResult>
+    <UnitTestResult executionId="2030cb81-b368-4b75-bc55-e25448cfa7ff" testId="4a4306f6-0d94-b0d6-1468-2148a6b34350" testName="TestGCDMethod" computerName="10266A-GEN-DEV" duration="00:00:00.0010104" startTime="2013-08-27T16:13:03.7101562+04:00" endTime="2013-08-27T16:13:03.7140625+04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2030cb81-b368-4b75-bc55-e25448cfa7ff">
+    </UnitTestResult>
+  </Results>
+</TestRun>

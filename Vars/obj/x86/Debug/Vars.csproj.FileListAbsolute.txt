@@ -1,0 +1,5 @@
+E:\M10266-0826\Vars\bin\Debug\Vars.exe
+E:\M10266-0826\Vars\bin\Debug\Vars.pdb
+E:\M10266-0826\Vars\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\M10266-0826\Vars\obj\x86\Debug\Vars.exe
+E:\M10266-0826\Vars\obj\x86\Debug\Vars.pdb

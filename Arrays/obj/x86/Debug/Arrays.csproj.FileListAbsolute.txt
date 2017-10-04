@@ -1,0 +1,5 @@
+E:\M10266-0826\Arrays\bin\Debug\Arrays.exe
+E:\M10266-0826\Arrays\bin\Debug\Arrays.pdb
+E:\M10266-0826\Arrays\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\M10266-0826\Arrays\obj\x86\Debug\Arrays.exe
+E:\M10266-0826\Arrays\obj\x86\Debug\Arrays.pdb

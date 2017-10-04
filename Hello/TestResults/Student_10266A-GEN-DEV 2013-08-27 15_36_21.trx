@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="00027396-e549-42ba-89b6-45acf84dea6b" name="Student@10266A-GEN-DEV 2013-08-27 15:36:21" runUser="10266A-GEN-DEV\Student" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="23f75c5e-7e23-4bc5-bc19-bbc15d80c5b0">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Student_10266A-GEN-DEV 2013-08-27 15_36_21">
+      <DeploymentItem filename="E:\M10266-0826\Methods\bin\Debug\Methods.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-08-27T15:36:21.9963750+04:00" queuing="2013-08-27T15:36:22.0032110+04:00" start="2013-08-27T15:36:22.2551641+04:00" finish="2013-08-27T15:36:22.7776250+04:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestAverageMethod" storage="e:\m10266-0826\hello\mytestproject\bin\debug\mytestproject.dll" id="8bcd3c45-1013-4cee-871f-42202704a43d">
+      <Execution id="707e4ce3-6dda-4ed7-bc5b-232af9346f93" />
+      <TestMethod codeBase="E:/M10266-0826/Hello/MyTestProject/bin/Debug/MyTestProject.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="MyTestProject.AverageTest, MyTestProject, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestAverageMethod" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="8bcd3c45-1013-4cee-871f-42202704a43d" executionId="707e4ce3-6dda-4ed7-bc5b-232af9346f93" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="707e4ce3-6dda-4ed7-bc5b-232af9346f93" testId="8bcd3c45-1013-4cee-871f-42202704a43d" testName="TestAverageMethod" computerName="10266A-GEN-DEV" duration="00:00:00.0930656" startTime="2013-08-27T15:36:22.3088750+04:00" endTime="2013-08-27T15:36:22.5471563+04:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="707e4ce3-6dda-4ed7-bc5b-232af9346f93">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;10,5&gt;. Actual:&lt;10&gt;. </Message>
+          <StackTrace>   at MyTestProject.AverageTest.TestAverageMethod() in E:\M10266-0826\Hello\MyTestProject\AverageTest.cs:line 17
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

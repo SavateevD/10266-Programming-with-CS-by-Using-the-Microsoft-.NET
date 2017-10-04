@@ -1,0 +1,5 @@
+E:\M10266-0826\Iterations\bin\Debug\Iterations.exe
+E:\M10266-0826\Iterations\bin\Debug\Iterations.pdb
+E:\M10266-0826\Iterations\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\M10266-0826\Iterations\obj\x86\Debug\Iterations.exe
+E:\M10266-0826\Iterations\obj\x86\Debug\Iterations.pdb

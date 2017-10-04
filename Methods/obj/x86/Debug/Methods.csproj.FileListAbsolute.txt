@@ -1,0 +1,5 @@
+E:\M10266-0826\Methods\bin\Debug\Methods.exe
+E:\M10266-0826\Methods\bin\Debug\Methods.pdb
+E:\M10266-0826\Methods\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\M10266-0826\Methods\obj\x86\Debug\Methods.exe
+E:\M10266-0826\Methods\obj\x86\Debug\Methods.pdb
